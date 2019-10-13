@@ -1,0 +1,16 @@
+Numero di elementi:  3000
+Elementi cluster 1:  83
+Elementi cluster 2:  6
+Elementi cluster 3:  1
+Elementi cluster 4:  1
+Elementi cluster 5:  4
+Elementi cluster 6:  70
+Elementi cluster 7:  939
+Elementi cluster 8:  786
+Elementi cluster 9:  227
+Elementi cluster 10:  501
+Elementi cluster 11:  118
+Elementi cluster 12:  77
+Elementi cluster 13:  187
+Devianza intra-cluster: 1987.74062033
+Devianza inter-cluster: 51285.1556391
